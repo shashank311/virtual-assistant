@@ -1,5 +1,5 @@
 # virtual-assistant
-# create a virtual desktop assistant using python and its modules where it listens to the user's commands 
+# created a virtual desktop assistant using python and its modules where it listens to the user's commands 
 #and performs specific tasks. Used libraries like pyttsx3, soeechRecognition, pyaudio, pyjokes, smtplib, etc.
 #here are some taskss that Virtual assistant can perform-
 - tells current date and time
